@@ -1,7 +1,7 @@
 import React from "react";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import LoginPage from "./LoginPage.jsx";      // this will be your actual login page component
-import LandingPage from "./landingpage.jsx";
+import LandingPage from "./LandingPage.jsx";
 
 function App() {
   return (
