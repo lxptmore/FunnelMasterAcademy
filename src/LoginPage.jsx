@@ -87,9 +87,9 @@ const LoginPage = () => {
           </button>
           <div style={styles.linkGroup}>
             <p style={styles.signupText}>
-              Not a member? <a href="/signup" style={styles.link}>Sign up</a>
+              Not a member? <a href="https://www.funnelsmasteryacademy.com/" style={styles.link}>Sign up</a>
             </p>
-            <a href="/forgot-password" style={styles.link}>Forgot your password?</a>
+            <a href="https://www.funnelsmasteryacademy.com/" style={styles.link}>Forgot your password?</a>
           </div>
         </div>
       </div>
